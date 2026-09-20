@@ -152,7 +152,8 @@ Total biaya = Rp50.000 × 3 = Rp150.000
 ![Menu Utama](screenshot-menu.png)
 
 ### Tampilan Tambah Alat
-![Tambah Alat](screenshot-tambah-alat.png)
+![Tambah Alat]
+<img width="389" height="178" alt="Screenshot 2026-09-20 211845" src="https://github.com/user-attachments/assets/c8254ee9-2497-4ff7-8fef-70f32512b2ca" />
 
 ### Tampilan Hasil Penyewaan
 ![Hasil Penyewaan](screenshot-penyewaan.png)
