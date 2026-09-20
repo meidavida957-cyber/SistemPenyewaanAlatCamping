@@ -149,14 +149,17 @@ Total biaya = Rp50.000 × 3 = Rp150.000
 ## Screenshot Program
 
 ### Tampilan Menu Utama
-![Menu Utama](screenshot-menu.png)
+![Menu Utama](<img width="389" height="178" alt="Screenshot 2026-09-20 211845" src="https://github.com/user-attachments/assets/2eba2fce-36f7-4fbc-bf6d-d7bb18249b88" />
+)
+
 
 ### Tampilan Tambah Alat
-![Tambah Alat]
-<img width="389" height="178" alt="Screenshot 2026-09-20 211845" src="https://github.com/user-attachments/assets/c8254ee9-2497-4ff7-8fef-70f32512b2ca" />
+![Tambah Alat](<img width="380" height="143" alt="Screenshot 2026-09-20 211901" src="https://github.com/user-attachments/assets/9041171c-cf20-4c5f-a0bb-2e4a06f19e95" />
+)
 
 ### Tampilan Hasil Penyewaan
-![Hasil Penyewaan](screenshot-penyewaan.png)
+![Hasil Penyewaan](<img width="365" height="188" alt="Screenshot 2026-09-20 211926" src="https://github.com/user-attachments/assets/1486a8d2-0742-4b7e-8bc9-b9ab661f47df" />
+)
 
 ---
 
